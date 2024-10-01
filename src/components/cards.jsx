@@ -9,7 +9,7 @@ const Cards = () => {
         <div className='absolute w-full h-full bg-black/40 rounded-xl text-[#F5F5F5]'>
           <p className='font-bold text-2xl px-2 pt-4'>Bite Into Happiness</p>
           <p className='px-2'>Every Order, Every Time</p>
-          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] mx-2 absolute bottom-4'>Order Now</button>
+          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
@@ -23,7 +23,7 @@ const Cards = () => {
         <div className='absolute w-full h-full bg-black/40  rounded-xl text-[#F5F5F5]'>
           <p className='font-bold text-2xl px-2 pt-4'>Foodies Unite </p>
           <p className='px-2'>Discover New Restaurants Daily</p>
-          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] mx-2 absolute bottom-4'>Order Now</button>
+          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
@@ -37,7 +37,7 @@ const Cards = () => {
         <div className='absolute w-full h-full bg-black/40 rounded-xl text-[#F5F5F5]'>
           <p className='font-bold text-2xl px-2 pt-4'>Satisfy Your Sweet Tooth </p>
           <p className='px-2'>Dessert Delivery Done Right</p>
-          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] mx-2 absolute bottom-4'>Order Now</button>
+          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
