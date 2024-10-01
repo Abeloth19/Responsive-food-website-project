@@ -26,7 +26,7 @@ const Foods = () => {
 
   return (
     <div className='max-w-[1640px] m-auto px-4 py-12'>
-      <h1 className='text-[#333333] font-bold text-4xl text-center'>
+      <h1 className='text-[#333333] font-bold text-5xl text-center'>
        Our Top Picks
       </h1>
 
