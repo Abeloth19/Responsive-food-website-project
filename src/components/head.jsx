@@ -6,8 +6,8 @@ const Head = () => {
         <div className='max-h-[500px] relative '>
             {/* Overlay */}
             <div className='absolute w-full h-full text-[#333333] max-h-[500px] bg-transparent flex flex-col justify-center'>
-                <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>Indulge In <span className='text-[#FFE66D]'> deliciousness  </span></h1>
-                <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'> with <span className='text-[#FFE66D]'>FooDie</span> </h1>
+                <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'>Indulge In <span className='text-[#FFE66D]'> Deliciousness  </span></h1>
+                <h1 className='px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold'> With <span className='text-[#FFE66D]'>FooDie</span> </h1>
             </div>
             
         </div>
