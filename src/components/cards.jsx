@@ -35,8 +35,8 @@ const Cards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/40 rounded-xl text-[#F5F5F5]'>
-          <p className='font-bold text-3xl px-2 pt-4'>Satisfy Your Sweet Tooth </p>
-          <p className='px-2'>Dessert Delivery Done Right</p>
+          <p className='font-bold text-3xl px-2 pt-4'>Satisfy your sweet tooth </p>
+          <p className='px-2'>Dessert delivery done right</p>
           <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>Order Now</button>
         </div>
         <img
