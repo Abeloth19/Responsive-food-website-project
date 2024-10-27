@@ -7,9 +7,9 @@ const Cards = () => {
       <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/40 rounded-xl text-[#F5F5F5]'>
-          <p className='font-bold text-3xl px-2 pt-4'>Bite Into Happiness</p>
-          <p className='px-2'>Every Order, Every Time</p>
-          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>Order Now</button>
+          <p className='font-bold text-3xl px-2 pt-4'>Bite into happiness</p>
+          <p className='px-2'>Every order, Every time</p>
+          <button className='border-[#333333] bg-[#F5F5F5] text-[#333333] hover:bg-[#ffffff] mx-2 absolute bottom-4'>order now</button>
         </div>
         <img
         className='max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl'
